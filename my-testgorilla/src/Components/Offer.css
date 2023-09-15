@@ -1,0 +1,21 @@
+.offer {
+    background-color: #f0d6bb;
+    
+}
+.offerone {
+    height: 300px;
+    width: 500px;
+}
+.offerone h1 {
+    font-size: clamp(30px, 3.73333vw, 40px);
+    line-height: 125%;
+    font-weight: 700;
+    font-family: var(--poppins);
+    margin-bottom: 40px;
+}
+.Offerone p {
+    font-size: clamp(18px, 1.33333vw, 18px);
+    line-height: 155%;
+    font-family: var(--openSans);
+    margin-right: 100px;
+}

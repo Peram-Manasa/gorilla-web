@@ -1,0 +1,56 @@
+.Talent {
+
+    text-align: center;
+    background-color: #F5F6F6;;
+
+}
+.talent1 h1 {
+ text-align: center;
+}
+.talent p {
+    margin-top: 24px;
+    text-align: center;
+        white-space: pre-line;
+        font-size: clamp(18px, 1.33333vw, 18px);
+        line-height: 155%;
+        font-family: var(--openSans);
+}
+.btn1
+{
+    width: fit-content;
+
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    padding: 12px 30px;
+    border-radius: 6px;
+    font-size: 14px;
+    line-height: 14px;
+    text-align: center;
+    font-weight: 600;
+    transition: var(--defaultTransition);
+    background-color: transparent;
+    border: 2px solid black;
+    color: black;
+}
+
+
+.btn2  {
+    width: fit-content;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    padding: 12px 30px;
+    border: 2px solid var(--teal);
+    border-radius: 6px;
+    background-color: #44aa97;
+    color: white;
+    font-size: 14px;
+    line-height: 18px;
+    margin-left: 30px;
+    text-align: center;
+    font-weight: 600;
+    transition: var(--defaultTransition);
+}
